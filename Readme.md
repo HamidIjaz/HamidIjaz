@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" height="250">
 
 
-- 🌱 I’m currently learning **React.js, Next.js, Node.js, React Native, Express.js**
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **chhamidijaz@gmail.com**

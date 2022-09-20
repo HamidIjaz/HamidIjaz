@@ -5,8 +5,7 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" height="200">
 
-- 💬 Ask me about **MERN Stack**
-
+- :computer: I'm currently working on **MERN Stack**
 - 📫 How to reach me **chhamidijaz@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

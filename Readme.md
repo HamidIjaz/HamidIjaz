@@ -8,7 +8,7 @@
 - :computer: I'm currently working on **MERN Stack**
 - 📫 How to reach me **chhamidijaz@gmail.com**
 
-<h3 align="left">:heart: Let's get connected:</h3>
+<h3 align="left">:heart: Let's connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chhamidijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhamidijaz" height="30" width="40" /></a>
 </p>

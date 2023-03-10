@@ -10,7 +10,7 @@
 
 <h3 align="left">:heart: Let's connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chhamidijaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhamidijaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chhamidijaz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhamidijaz" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>

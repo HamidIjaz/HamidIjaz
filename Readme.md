@@ -1,7 +1,7 @@
+<!-- 
 <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
-<!-- 
 <h1 align="center">Hi 👋, I'm Hamid Ijaz</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 <img align="right" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="290" height="190">

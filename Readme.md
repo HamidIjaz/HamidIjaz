@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center" style="font-size: 2em; font-weight: bold; margin-bottom: 0.25em; margin-top: 0.67em; border: none;">
-A passionate Full Stack developer</p>
+Software Engineer</p>
 <img align="center" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="290" height="190">
 </div>
 <!-- 
